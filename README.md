@@ -12,5 +12,5 @@ Java · Kotlin · Angular · TypeScript · SQL
   a power electronics repair business in Madrid.
 
 ## Contact
-- Email: [your email]
+- Email: [a.reydev@proton.me](mailto:a.reydev@proton.me)
 - Location: Madrid, Spain
