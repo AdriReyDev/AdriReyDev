@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Adrián 👋
 
-<!--
-**AdriReyDev/AdriReyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd-year student of Multiplatform App Development (DAM, a Spanish vocational degree)
+at CEU FP Madrid. I'm looking for an internship, and I'm especially interested
+in artificial intelligence.
 
-Here are some ideas to get you started:
+## What I'm learning
+Java · Kotlin · Angular · TypeScript · SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [yobasol-web](https://github.com/AdriReyDev/yobasol-web): landing page for Yobasol,
+  a power electronics repair business in Madrid.
+
+## Contact
+- Email: [your email]
+- Location: Madrid, Spain
